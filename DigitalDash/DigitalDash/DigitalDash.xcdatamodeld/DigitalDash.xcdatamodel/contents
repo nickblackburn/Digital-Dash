@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ExerciseLoop" representedClassName="ExerciseLoop" syncable="YES">
+        <attribute name="averageSpeed" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" attributeType="String" syncable="YES"/>
+        <attribute name="dateShort" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="endHours" attributeType="String" syncable="YES"/>
+        <attribute name="exerciseID" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="locationPoints" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="startHours" attributeType="String" syncable="YES"/>
+        <attribute name="steps" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ExerciseLoop" positionX="-144" positionY="-27" width="128" height="195"/>
+    </elements>
+</model>
