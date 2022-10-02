@@ -11,9 +11,9 @@ iOS fitness app
 
 Tech Stack:
 
-Swift
-CoreData
-MapKit
-UIKit
-CoreMotion
-CoreLocation
+- Swift
+- CoreData
+- MapKit
+- UIKit
+- CoreMotion
+- CoreLocation
