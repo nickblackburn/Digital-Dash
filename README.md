@@ -5,11 +5,11 @@ iOS fitness app
 - clean and simple UI
 - records workout data and tracks your progress along a map
 - saves all workouts
-- released to Apple App store in 2017
+- written in 2017
 
 ====================
 
-Tech Stack:
+Tech Stack
 
 - Swift
 - CoreData
